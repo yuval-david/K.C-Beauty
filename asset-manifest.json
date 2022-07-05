@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/K.C-Beauty/static/css/main.633690d5.chunk.css",
+    "main.js": "/K.C-Beauty/static/js/main.ce05acf9.chunk.js",
+    "main.js.map": "/K.C-Beauty/static/js/main.ce05acf9.chunk.js.map",
+    "runtime-main.js": "/K.C-Beauty/static/js/runtime-main.c7f4dd57.js",
+    "runtime-main.js.map": "/K.C-Beauty/static/js/runtime-main.c7f4dd57.js.map",
+    "static/css/2.40a775a0.chunk.css": "/K.C-Beauty/static/css/2.40a775a0.chunk.css",
+    "static/js/2.d2cd1c72.chunk.js": "/K.C-Beauty/static/js/2.d2cd1c72.chunk.js",
+    "static/js/2.d2cd1c72.chunk.js.map": "/K.C-Beauty/static/js/2.d2cd1c72.chunk.js.map",
+    "index.html": "/K.C-Beauty/index.html",
+    "precache-manifest.720b5a6acc5bd5db93b09a4795184d4f.js": "/K.C-Beauty/precache-manifest.720b5a6acc5bd5db93b09a4795184d4f.js",
+    "service-worker.js": "/K.C-Beauty/service-worker.js",
+    "static/css/2.40a775a0.chunk.css.map": "/K.C-Beauty/static/css/2.40a775a0.chunk.css.map",
+    "static/css/main.633690d5.chunk.css.map": "/K.C-Beauty/static/css/main.633690d5.chunk.css.map",
+    "static/js/2.d2cd1c72.chunk.js.LICENSE.txt": "/K.C-Beauty/static/js/2.d2cd1c72.chunk.js.LICENSE.txt",
+    "static/media/0.png": "/K.C-Beauty/static/media/0.68b2a26b.png",
+    "static/media/1.png": "/K.C-Beauty/static/media/1.d700affd.png",
+    "static/media/2.png": "/K.C-Beauty/static/media/2.2b6e3be3.png",
+    "static/media/3.png": "/K.C-Beauty/static/media/3.fa553839.png",
+    "static/media/4.png": "/K.C-Beauty/static/media/4.d1d4334e.png",
+    "static/media/5.png": "/K.C-Beauty/static/media/5.febe8459.png",
+    "static/media/6.png": "/K.C-Beauty/static/media/6.ca150f41.png",
+    "static/media/7.png": "/K.C-Beauty/static/media/7.d747860c.png",
+    "static/media/8.png": "/K.C-Beauty/static/media/8.aa54ec97.png",
+    "static/media/App.css": "/K.C-Beauty/static/media/wood.ef313680.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7f4dd57.js",
+    "static/css/2.40a775a0.chunk.css",
+    "static/js/2.d2cd1c72.chunk.js",
+    "static/css/main.633690d5.chunk.css",
+    "static/js/main.ce05acf9.chunk.js"
+  ]
+}
