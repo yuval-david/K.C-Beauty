@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/K.C-Beauty/precache-manifest.720b5a6acc5bd5db93b09a4795184d4f.js"
+  "/K.C-Beauty/precache-manifest.49bf00470cb5c8f0960e245dbd16e0bb.js"
 );
 
 self.addEventListener('message', (event) => {

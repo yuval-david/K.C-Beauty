@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "833c68fb915f493f17c9c812d66727b0",
+    "revision": "5ba64cd2a06a41ee13a7a9252d0ead27",
     "url": "/K.C-Beauty/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/K.C-Beauty/static/css/2.40a775a0.chunk.css"
   },
   {
-    "revision": "7dfba694af6e545bcdb3",
-    "url": "/K.C-Beauty/static/css/main.633690d5.chunk.css"
+    "revision": "142bd1ef8b09cc71f286",
+    "url": "/K.C-Beauty/static/css/main.2d832851.chunk.css"
   },
   {
     "revision": "952c896a786fad598e00",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/K.C-Beauty/static/js/2.d2cd1c72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dfba694af6e545bcdb3",
-    "url": "/K.C-Beauty/static/js/main.ce05acf9.chunk.js"
+    "revision": "142bd1ef8b09cc71f286",
+    "url": "/K.C-Beauty/static/js/main.8108d1c4.chunk.js"
   },
   {
     "revision": "1edf1f3f4faa958efbdf",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "623bed2ea0a3e141c348aa2985e5cea5",
     "url": "/K.C-Beauty/static/media/nailss.623bed2e.jpeg"
+  },
+  {
+    "revision": "882b8117960de137964c8aedb499c4df",
+    "url": "/K.C-Beauty/static/media/pink.882b8117.jpeg"
   },
   {
     "revision": "cee21bfc4be62a7dce958552d678aa14",
