@@ -511,6 +511,7 @@
 
     .parallax {
         min-height: 30vh;
+        display: none;
     }
 
     /**  Gallery  **/
