@@ -20,7 +20,7 @@ export default function Contact() {
 
                 <div className='icons-container'>
                     <a className="a-icons" href="https://www.instagram.com/k.c_beauty1/" target="post"><i className="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a className="a-icons" href="https://www.facebook.com/keren.cohen.1000" target="post"><i className="fa fa-facebook-square" aria-hidden="true"></i></a>
+                    <a className="a-icons" href="https://www.facebook.com/Kc-beauty-101292178063880" target="post"><i className="fa fa-facebook-square" aria-hidden="true"></i></a>
                 </div>
 
 
