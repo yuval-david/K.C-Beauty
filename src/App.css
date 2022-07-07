@@ -382,6 +382,21 @@
     transition-duration: 0.3s;
 }
 
+/** Laptop CSS (Gallery) **/
+@media (max-width: 1350px) {
+	
+    .gallery {
+        scroll-margin-top: -22vw;
+    }
+    
+    .gallery-header {
+        margin-top: 0vw;
+        margin-bottom: -0.5vw;
+        padding-top: 3vw;
+        font-size: 2.4vw;
+    }
+    
+}
 
 
 /***  MOBILE CSS  ***/
