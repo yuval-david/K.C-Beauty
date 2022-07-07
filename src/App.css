@@ -517,8 +517,8 @@
     /**  Gallery  **/
     
     .gallery {
-        height: 130vh;
-        scroll-margin-top: -60vw;
+        height: 100vh;
+        scroll-margin-top: 0vw;
     }
 
     .gallery-header {
